@@ -21,7 +21,7 @@
  
  ## Logs</br>
  - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
+ - Hi all, there are fools scam tools on GitHub for 20usd
 - Image scammer:
 https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
  
@@ -44,7 +44,7 @@ One star = continuously updating multiple methods
 - [x] Open Source
 - [x] Powerful
 - [x] Simple
-- [x] Methods for Layer 4 and 7
+- [x] Methods for Layers 4 and 7
 - [x] Bypass (Cloudflare, OVH, NFO,...)  
 
 
@@ -60,7 +60,7 @@ yum install python3-pip -y
 yum install nodejs -y
 yum install npm -y
 
-Debain, Ubuntu:
+Debian, Ubuntu:
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
@@ -71,10 +71,10 @@ sudo apt-get install nodejs -y
 sudo apt-get install npm -y
 
 How to use: 
-- Recommended in shell of google, azure,...
-- Using vps with high speed will be stronger
+- Recommended in the shell of Google, Azure, etc.
+- Using VPS with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
+git clone https://github.com/hackinter/ZaxDDOS.git
 cd ZxCDDoS/
 npm i requests
 npm i https-proxy-agent
@@ -107,6 +107,7 @@ R00tS3C (Layer 4 and AMP methods <3)
 forkyyy (LAYER 7 METHODS <3)
 Leeon123 (SPECIAL METHODS <3)
 TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
+Hackinter (???????????????????????)
 ```
 
 # TOS:
@@ -117,7 +118,7 @@ remember: you are responsible for the attacks since this tool was created for ed
 ```
 
 # CONTACT:
-```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+```bash
+https://t.me/HACKINTERS
+
 ```
