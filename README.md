@@ -72,7 +72,7 @@ How to use:
 - Recommended in the shell of Google, Azure, etc.
 - Using VPS with high speed will be stronger
 
-git clone https://github.com/hackinter/ZaxDDOS.git
+git clone https://github.com/hackinter/ZxCDDoS.git
 cd ZxCDDoS/
 npm i requests
 npm i https-proxy-agent
